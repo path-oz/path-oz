@@ -42,5 +42,4 @@
 <p align="center">
 <a href="https://www.pathikoza.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.pathikoza.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/pathik-oza"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pathik%20Oza-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:pathikoza1996@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pathikoza1996@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
