@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated Oregon State University December 2022 with a degree in Computer Science.
-- 💼 &nbsp; Searching for a technology job.
+- 💼 &nbsp; Searching for a technology role.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
